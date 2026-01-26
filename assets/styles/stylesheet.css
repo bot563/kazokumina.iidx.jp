@@ -831,14 +831,14 @@ text-shadow: -2px 0 0 rgb(255, 0, 80);
 	/*letter-spacing: .2em;*/
 	font-size: 1rem;
 }
-.nsfw-tag {
+.mtg-tag {
 	vertical-align: middle;
 	font-size: .7rem;
 	padding: 0 .3em;	
-	color: #FF585B;
+	color: #FF69B4;
 	border-style: solid;
 	border-width: 1px;
-	border-color: #FF585B;
+	border-color: #FF69B4;
 }
 .friend-tag {
 	vertical-align: middle;
